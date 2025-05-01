@@ -10,8 +10,13 @@
 &nbsp;
 
 <h4 align="left">Feel free to check out my highlighted projects and don't hesitate to reach out!</h4>
+<br/>
+<br/>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="16c45074-a25c-4d98-a383-26dc5efa28a1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/16c45074-a25c-4d98-a383-26dc5efa28a1/public_url" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="250"/>
+</a>
+<br/><br/><br/><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artomatiq&label=Profile%20views&color=0e75b6&style=flat" alt="artomatiq" /> </p>
 &nbsp;
