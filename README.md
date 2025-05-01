@@ -6,7 +6,7 @@
 <h4 align="left">Fostering a robust network, staying at the forefront of emerging technologies, collaborating with others, and leveraging tech to solve real-world problems and advance human rights encapsulate my priorities and values.</h4>
 &nbsp;
 
-<h4 align="left">The recent gap in my GitHub activity is due to me having been laser-focused on learning a wealth of information about the inner working of AWS Cloud infrastructure and architecture in pursuit of my Solutions Architect Associate certificate, which I now have under my belt! Check out my Twitter vs X inspired vanilla JS Flappy Bird game clone!</h4>
+<h4 align="left">The recent gap in my GitHub activity is due to me having been laser-focused on learning a wealth of new information about AWS Cloud infrastructure and architecture in pursuit of my Solutions Architect Associate certificate, which I now have under my belt! Check out my Twitter vs X inspired vanilla JS Flappy Bird game clone!</h4>
 &nbsp;
 
 <h4 align="left">Feel free to check out my highlighted projects and don't hesitate to reach out!</h4>
