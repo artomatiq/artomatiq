@@ -67,7 +67,7 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Compute/Amazon-EC2.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Famazon-web-services-logo%2F&psig=AOvVaw1ZePqeTxcreUFKrGjMFm00&ust=1746194814761000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi0vOe4go0DFQAAAAAdAAAAABAE)" alt="AWS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a>
 </p>
 
