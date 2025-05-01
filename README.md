@@ -11,9 +11,6 @@
 
 <h4 align="left">Feel free to check out my highlighted projects and don't hesitate to reach out!</h4>
 
-<h4 align="left">I'm thoroughly convinced that Neuralink will change the world.</h4>
-&nbsp;
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artomatiq&label=Profile%20views&color=0e75b6&style=flat" alt="artomatiq" /> </p>
 &nbsp;
 
