@@ -66,15 +66,8 @@
   </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws-ec2" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/linuxthefish/awsicons/master/PNG/Storage/S3_64.png" alt="aws-s3" width="40" height="40"/>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Compute/Amazon-EC2.svg" alt="AWS EC2" width="40" height="40"/>
   </a>
 </p>
 
