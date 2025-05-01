@@ -11,6 +11,8 @@
 
 <h4 align="left">Feel free to check out my highlighted projects and don't hesitate to reach out!</h4>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="16c45074-a25c-4d98-a383-26dc5efa28a1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artomatiq&label=Profile%20views&color=0e75b6&style=flat" alt="artomatiq" /> </p>
 &nbsp;
 
