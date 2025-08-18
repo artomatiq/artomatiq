@@ -17,6 +17,11 @@
   <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="250"/>
 </a>
 <br/><br/><br/><br/>
+<a href="https://www.credly.com/badges/206a5bc2-a25e-46f0-9a91-84d8be5c07f8/public_url" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/.../image.png" alt="AWS Certified AI Practitioner" width="250"/>
+</a>
+<br/><br/><br/><br/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artomatiq&label=Profile%20views&color=0e75b6&style=flat" alt="artomatiq" /> </p>
 &nbsp;
