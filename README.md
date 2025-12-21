@@ -1,18 +1,21 @@
 ![48389b86-7100-4e1b-b01a-77cab7fb5c29](https://github.com/artomatiq/artomatiq/assets/126132705/a5286049-b6f3-4755-9079-8bdd687d8b5f)
 
-<h4 align="left">Drawing from a unique [array] of knowledge, skills, and experience, including a full-stack web development certificate, AWS Cloud Solutions Architect (Associate) certificate, AWS AI Practitioner certificate, a Bachelor’s degree in neuroscience from UCLA, restaurant tech management, and human rights advocacy, I am determined to leverage these assets to make an impact on the world of tech and beyond.</h4>
+<h4 align="left">Drawing from a unique [array] of knowledge, skills, and experience, including a full-stack web development certificate, an AWS Machine Learning (Specialty) certificate, an AWS Cloud Solutions Architect (Associate) certificate, a Bachelor’s degree in neuroscience from UCLA, restaurant tech management, and human rights advocacy, I am determined to leverage these assets to make an impact on the world of tech and beyond.</h4>
 &nbsp;
 
-<h4 align="left">Fostering a robust network, staying at the forefront of emerging technologies, collaborating with others, and leveraging tech to solve real-world problems and advance human rights encapsulate my priorities and values.</h4>
+<h4 align="left">Solving real-world problems, staying at the forefront of emerging technologies, and building a robust network are at the forefront of my career priorities.</h4>
 &nbsp;
 
-<h4 align="left">The recent gap in my GitHub activity is due to me having been laser-focused on learning a wealth of new information about AWS Cloud infrastructure and architecture, as well as AI and Machine Learning fundamentals in pursuit of my Solutions Architect Associate and AI Practitioner certificates respectively, which I now have under my belt! Check out my Twitter vs X inspired vanilla JS Flappy Bird game clone!</h4>
+<h4 align="left">The recent gap in my GitHub activity is due to me having been laser-focused on learning a wealth of new information about AWS Cloud architecture and Machine Learning—in pursuit of my Solutions Architect Associate and Machine Learning Specialty certificates respectively, which I now have under my belt! Don't forget to try my Twitter vs X inspired vanilla JS Flappy Bird game clone!</h4>
 &nbsp;
 
 <h4 align="left">Feel free to check out my highlighted projects and don't hesitate to reach out!</h4>
 <br/>
 <br/>
 
+<a href="https://www.credly.com/badges/1343ca29-c464-4f59-ad2f-0aee803e3098/public_url" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" alt="AWS Certified Machine Learning Specialty" width="250"/>
+</a>
 <a href="https://www.credly.com/badges/16c45074-a25c-4d98-a383-26dc5efa28a1/public_url" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="250"/>
 </a>
