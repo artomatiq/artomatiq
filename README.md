@@ -92,6 +92,8 @@
 
 <h5 align="left">
 
+Link: https://github.com/artomatiq/ccs-ticket-backend
+
 Architected and built a cloud-based logistics and ticket-processing platform designed to digitize paper load tickets, automate invoice workflows, and modernize operational processes for trucking and hauling operations while remaining compatible with legacy spreadsheet-driven bookkeeping systems.
 
 <br /><br />
