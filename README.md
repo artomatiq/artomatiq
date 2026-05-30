@@ -6,7 +6,7 @@
 <h4 align="left">Solving real-world problems, staying at the forefront of emerging technologies, and building a robust network are at the forefront of my career priorities.</h4>
 &nbsp;
 
-<h4 align="left">The recent gap in my GitHub activity is due to me having been laser-focused on learning a wealth of new information about AWS Cloud architecture and Machine Learning—in pursuit of my Solutions Architect Associate and Machine Learning Specialty certificates respectively, which I now have under my belt! Don't forget to try my Twitter vs X inspired vanilla JS Flappy Bird game clone!</h4>
+<h4 align="left">Don't forget to try my Twitter vs X inspired vanilla JS Flappy Bird game clone!</h4>
 &nbsp;
 
 <h4 align="left">Feel free to check out my highlighted projects and don't hesitate to reach out!</h4>
@@ -87,6 +87,61 @@
 
 <h3 align="center">Review of Skills / Pinned Projects</h3>
 &nbsp;
+
+<h4 align="left">Cloud-Based Trucking Ticket & Invoice Processing Platform</h4>
+
+<h5 align="left">
+
+Architected and built a cloud-based logistics and ticket-processing platform designed to digitize paper load tickets, automate invoice workflows, and modernize operational processes for trucking and hauling operations while remaining compatible with legacy spreadsheet-driven bookkeeping systems.
+
+<br /><br />
+
+Key engineering highlights included:
+
+<br /><br />
+
+● Architected an event-driven serverless AWS pipeline using Lambda, DynamoDB, S3, SQS, API Gateway, and EventBridge to automate OCR-based trucking ticket processing
+
+● Built an OCR-driven document scanning and extraction system using OpenCV image preprocessing and Amazon Textract for handwritten ticket validation and structured data extraction
+
+● Designed a React-based operations dashboard supporting real-time ticket review, invoice management, bookkeeping workflows, and driver operations
+
+● Integrated Google Sheets, Apps Script, and Google Drive APIs to support legacy spreadsheet-based accounting workflows and automated invoice reporting
+
+● Leveraged asynchronous SQS-based workflows to improve reliability, scalability, retry handling, and fault tolerance during ticket ingestion and processing
+
+● Engineered idempotent event-driven workflows, transactional DynamoDB operations, and JWT-based authentication across distributed AWS services
+
+<br />
+
+The platform was designed around real-world operational constraints and included system-level considerations for asynchronous processing, concurrency handling, distributed workflow coordination, duplicate protection, operational resiliency, and production-oriented backend architecture for small-business logistics environments.
+
+<br /><br />
+
+Tech stack and infrastructure included:
+
+<br /><br />
+
+- React  
+- Node.js  
+- Express  
+- DynamoDB  
+- AWS Lambda  
+- Amazon Textract  
+- Amazon S3  
+- Amazon SQS  
+- Amazon EventBridge  
+- API Gateway  
+- AWS SAM  
+- OpenCV  
+- Google Sheets API  
+- Google Apps Script  
+- JWT Authentication  
+
+</h5>
+
+&nbsp;
+
 
 <h4 align="left">courier-website</h4>
 <h5 align="left">Built a business website from the ground up using React, ensuring a fully responsive design optimized for seamless user experience across mobile, tablet, and desktop devices. Integrated the EmailJS API to automate email notifications, streamlining client communications. Leveraged the Google Maps API to implement address autocomplete, and built a dynamic quote request form, enabling clients and admins to agree on delivery costs with ease and convenience. Additionally, implemented dynamic scheduling validation using the SweetAlert library to prevent booking conflicts, ensuring smooth operations. To elevate the user experience, incorporated CSS animations that added visual appeal and interactivity, creating a modern and engaging interface.</h5>
