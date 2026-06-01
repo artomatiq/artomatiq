@@ -1,6 +1,6 @@
 ![48389b86-7100-4e1b-b01a-77cab7fb5c29](https://github.com/artomatiq/artomatiq/assets/126132705/a5286049-b6f3-4755-9079-8bdd687d8b5f)
 
-<h4 align="left">Drawing from a unique [array] of knowledge, skills, and experience, including a full-stack web development certificate, an AWS Machine Learning (Specialty) certificate, an AWS Cloud Solutions Architect (Associate) certificate, a Bachelor’s degree in neuroscience from UCLA, restaurant tech management, and human rights advocacy, I am determined to leverage these assets to make an impact on the world of tech and beyond.</h4>
+<h4 align="left">Drawing from a unique array of knowledge, skills, and experience — a Bachelor's degree in Neuroscience from UCLA, an AWS Machine Learning (Specialty) certification, an AWS Solutions Architect (Associate) certification, an AWS AI Practitioner certification, and a full-stack web development certificate — I build applied AI and cloud systems that solve real operational problems.</h4>
 &nbsp;
 
 <h4 align="left">Solving real-world problems, staying at the forefront of emerging technologies, and building a robust network are at the forefront of my career priorities.</h4>
